@@ -2,7 +2,7 @@
 
 
 <div style="text-align: center;">
-    <img src="./img/6174y0NCx5L._AC_UF1000,1000_QL80_.jpg"  alt="NTU" width="300">
+    <img src="./img/6174y0NCx5L._AC_UF1000,1000_QL80_.jpg"  alt="book" width="300">
 </div>
 
 
