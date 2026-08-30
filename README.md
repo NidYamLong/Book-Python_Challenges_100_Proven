@@ -6,7 +6,7 @@
 </div>
 
 
-<div style="text-align: center;">
+<div style="text-align: center; padding: 20px; margin: 30px">
     <a link="https://www.amazon.com.br/Python-Challenges-Programming-Designed-Anything/dp/1484273974">📔 Amazon</a>
     |
     <a link="https://link.springer.com/book/10.1007/978-1-4842-7398-2">🔗 Springer Nature Link</a>
