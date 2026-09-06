@@ -17,7 +17,7 @@
 """
 
 
-def calc_sum_and_count_all_numbers_div_by_2_or_7(max_exclusive) -> int:
+def calc_sum_and_count_all_numbers_div_by_2_or_7(max_exclusive) -> ():
     set_divisible = {number for number in range(1, max_exclusive) if number % 2 == 0  or number % 7 == 0}
 
     return len(set_divisible), sum(set_divisible)

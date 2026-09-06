@@ -42,5 +42,17 @@
         <td>3: Perfect Numbers (★★✩✩✩) </td>
         <td>✅</td>
     </tr>
+     <tr>
+        <td>4: Prime Numbers (★★✩✩✩) </td>
+        <td>✅</td>
+    </tr>
+    <tr>
+        <td>5: Prime Number Pairs (★★✩✩✩) </td>
+        <td>✅</td>
+    </tr>
+    <tr>
+        <td>6: Checksum (★★✩✩✩) </td>
+        <td>✅</td>
+    </tr>
     </table>
 </div>
