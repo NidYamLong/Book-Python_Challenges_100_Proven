@@ -54,5 +54,9 @@
         <td>6: Checksum (★★✩✩✩) </td>
         <td>✅</td>
     </tr>
+     <tr>
+        <td>7: Roman Numbers (★★★★✩) </td>
+        <td>✅</td>
+    </tr>
     </table>
 </div>
